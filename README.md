@@ -1,8 +1,7 @@
 # Simple-Ngram
 An n-gram model models sequences, notably natural languages, using the statistical properties of n-grams.
-# Simple useage
 
-# after the download to same directory file import the ngram to your project
+#Simple useage after the download this to your project file
 import ngram
 
 # then call the functions and write some sentences like below
